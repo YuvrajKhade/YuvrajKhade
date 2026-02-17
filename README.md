@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Khade</h1>
 <h3 align="center">A passionate Java developer & AIML, Deep learning enthausiate from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvrajkhade" alt="yuvrajkhade" /></a> </p>
+<p align="left"> <a href="https://github.com/YuvrajKhade"><img src="https://avatars.githubusercontent.com/u/158843795?v=4&size=64" alt="yuvrajkhade" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/yuvrajkhad9955" target="blank"><img src="https://img.shields.io/twitter/follow/yuvrajkhad9955?logo=twitter&style=for-the-badge" alt="yuvrajkhad9955" /></a> </p>
 
