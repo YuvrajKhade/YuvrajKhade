@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Khade</h1>
 <h3 align="center">A passionate Java developer & AIML, Deep learning enthausiate from India</h3>
 
-<p align="left"> <a href="https://github.com/YuvrajKhade"><img src="https://scontent-bom5-2.cdninstagram.com/v/t51.2885-19/475689772_3529542737346688_7644553788009855575_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-bom5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QFhxg3EwLg8Y1LxxbEij2K8Xy1vwdiXPN4Ibh30ry1sf06YidQRgkmxyGyuFbQR8Zo&_nc_ohc=PMP64LTWFPoQ7kNvwFzHeCX&_nc_gid=6rPCI5C6kaXQAqO9uVspQg&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AftwAU19J_2xxxI-8SIMvsAWRvHPyCpn7vQKbEq6htdb5w&oe=699A90D3&_nc_sid=7a9f4b" alt="yuvrajkhade" /></a> </p>
+<p align="left"> <a href="https://github.com/YuvrajKhade"><img src="https://scontent-bom5-2.cdninstagram.com/v/t51.2885-19/475689772_3529542737346688_7644553788009855575_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-bom5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QFhxg3EwLg8Y1LxxbEij2K8Xy1vwdiXPN4Ibh30ry1sf06YidQRgkmxyGyuFbQR8Zo&_nc_ohc=PMP64LTWFPoQ7kNvwFzHeCX&_nc_gid=6rPCI5C6kaXQAqO9uVspQg&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AftwAU19J_2xxxI-8SIMvsAWRvHPyCpn7vQKbEq6htdb5w&oe=699A90D3&_nc_sid=7a9f4b" alt="yuvrajkhade" height="100px" width="100px" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/yuvrajkhad9955" target="blank"><img src="https://img.shields.io/twitter/follow/yuvrajkhad9955?logo=twitter&style=for-the-badge" alt="yuvrajkhad9955" /></a> </p>
 
