@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/yuvrajkhad9955" target="blank"><img src="https://img.shields.io/twitter/follow/yuvrajkhad9955?logo=twitter&style=for-the-badge" alt="yuvrajkhad9955" /></a> </p>
 
-- 🔭 I’m currently working on [Ex-Btc](https://github.com/YuvrajKhade/ExBTC-)
+- 🔭 I’m currently working on my final year project **Graph-Theoretic Orchestration for Edge–Cloud Task Scheduling Using Distributed Coloring with Luby’s MIS Algorithm**
 
-- 🌱 I’m currently learning **MERN, Spring & Spring Boot**
+- 🌱 I’m currently learning **Deep Learning & Spring Boot**
 
-- 👯 I’m looking to collaborate on [Ex-Btc](https://github.com/YuvrajKhade/ExBTC-)
+- 👯 I’m looking to collaborate on real time **Backend and ML project**
 
-- 💬 Ask me about **Machine Learning, SQL, Hibernate**
+- 💬 Ask me about **Java, Python, Machine Learning, SQL, Spring Boot, React.js, Hibernate**
 
 - 📫 How to reach me **yuvrajkhade33@gmail.com**
 
-- ⚡ Fun fact **I like to sing and dance when I'm alone**
+- ⚡ Fun fact **I like to sing and dance when I'm alone 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
